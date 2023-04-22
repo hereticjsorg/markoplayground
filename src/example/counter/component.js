@@ -5,7 +5,8 @@ module.exports = class {
         };
     }
 
-    async onCounterButtonClick() {
+    async onCounterButtonClick(e) {
+        e.preventDefault();
         this.setState("count", this.state.count + 1);
     }
 };
