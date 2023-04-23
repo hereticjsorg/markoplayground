@@ -1,5 +1,7 @@
 # Marko Playground
 
+TL;DR: check out the [compiled version](https://playground.hereticjs.org) to see the result.
+
 This project was created specifically to allow you to quickly evaluate the syntax and capabilities of Marko. It contains all the necessary configurations and modules for fast and optimized builds.
 
 You can open the project immediately and start working with it in Visual Studio Code. Both JavaScript and TypeScript are supported.
